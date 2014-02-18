@@ -15,7 +15,7 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 .container {
@@ -26,9 +26,15 @@ h2 {
   min-height: 800px;
 }
 
+.title {
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
 .personal-statement {
   margin-top: 24px;
-  margin-bottom: 24px;
+  margin-bottom: 40px;
+
 }
 
 .personal-statement p {
